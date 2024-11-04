@@ -24,6 +24,7 @@
     "typescript": "^5.0.0",
     "xo": "^0.59.0"
   },
+  "main": "./index.js",
   "exports": "./index.js",
   "files": [
     "lib/",
